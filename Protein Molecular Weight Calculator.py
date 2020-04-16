@@ -43,4 +43,4 @@ print('Number of amino acids: '+str(AA_length))
 print('MW: '+str(MW_final) + ' kDa')
 
 # In the future, we can add other functionalities. For example, add a BLAST feature from Biopython
-
+# Other suggestions could include analyzing the structure of the protein. Again, using biopython
