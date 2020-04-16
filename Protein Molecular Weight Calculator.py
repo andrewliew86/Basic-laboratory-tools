@@ -42,5 +42,5 @@ MW_final = (MW_total-waterMW)/1000
 print('Number of amino acids: '+str(AA_length))
 print('MW: '+str(MW_final) + ' kDa')
 
-
+# In the future, we can add other functionalities. For example, add a BLAST feature from Biopython
 
